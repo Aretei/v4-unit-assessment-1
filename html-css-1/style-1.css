@@ -1,0 +1,54 @@
+.title {
+    display: inline-block;
+    background-color: palevioletred;
+    height: 130px;
+    width: 1000px;
+}
+.mainText {
+    font-size: 30px;
+    padding-top: 45px;
+    padding-left: 20px;
+}
+.buttons {
+  
+    margin-left: 400px;
+    font-size: 20px;
+}
+.hed1 {
+    margin-top: -25px;
+}
+.hed2 {
+    margin-left: 120px;
+    margin-top: -22px;
+    position: relative;
+}
+.hed3 {
+    position: relative;
+    margin-left: 240px;
+    margin-top: -22px;
+}
+.para1 {
+    border: dotted black;
+    width: 995px;
+    height: 400px;
+    margin: 10px;
+    margin-left: -0px;
+}
+.pic1 {
+    width: 50px;
+}
+.para2 {
+    border: dotted black;
+    width: 995px;
+    height: 400px;
+    margin: 10px;
+    margin-left: -0px;
+}
+.tilee {
+    font-size: 20px;
+}
+.pic2 {
+    width: 50px;
+    position: relative;
+    margin-left:900px;
+}
