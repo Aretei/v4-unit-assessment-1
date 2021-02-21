@@ -127,7 +127,7 @@ let me = {
 
 let numbs = [2,34,555,674,12,99,123]
 function bigOrSmall(arr) {
-  let answers = ''
+  let answers = []
   for(let i = 0; i < arr.length; i++) {
     if(arr[i] > 100) {
       answers.push("big")
@@ -152,8 +152,8 @@ bigOrSmall(numbs)
 */
 
 function arrayReverser(arr) {
-  let reversed = ''
-  for(let i = arr.length - 1; i > 0; i--) {
+  let reversed = []
+  for(let i = arr.length - 1; i >= 0; i--) {
     reversed.push(arr[i])
   }
   return reversed
